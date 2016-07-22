@@ -11,7 +11,7 @@ html
 {
 height:100%;
 width:100%;
-background:url('picture/r.jpg')center center no-repeat;
+background:url('http://image.slidesharecdn.com/ppt-160418160052/95/website-design-company-in-uk-ecommerce-and-online-graphic-design-2-638.jpg?cb=1460995347')center center no-repeat;
 }
 </style>
 </head>
@@ -23,12 +23,12 @@ background:url('picture/r.jpg')center center no-repeat;
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="login3.html">Topshop</a>
+      <a class="navbar-brand" href="HomePage">back</a>
     </div>
 </nav>
 
-<center><h1>MY BOUTIQUE</h1></center><hr>
-<form action="login3.html" method="post">
+
+<form action="home.jsp" method="post">
 
 
 </body>

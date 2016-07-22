@@ -24,24 +24,24 @@ background:url('picture/f4.jpg')center center no-repeat;
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="login3.html">Topshop</a>
+      <a class="navbar-brand" href="HomePage">back</a>
     </div>
 </nav>
 
 
-<form action="login3.html" method="post">
+<form action="home.jsp" method="post">
 
 <hr>
 <h2>Categories of Product</h2>
 </hr>
 
-<summary><a href="Tops.html">Tops</a></summary>
+<summary><a href="TopsPage">Tops</a></summary>
 
-<summary><a href="Kurtis.html">Kurtis</a></summary>
+<summary><a href="KurtisPage">Kurtis</a></summary>
 
-<summary><a href="Lehengas.html">Lehengas</a></summary>
+<summary><a href="LehengasPage">Lehengas</a></summary>
 
-<summary><a href="Anarkalis.html">Anarkalis</a></summary>
+<summary><a href="AnarkaliPage">Anarkalis</a></summary>
 
 </body>
 </html>

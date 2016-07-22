@@ -7,14 +7,14 @@
 <title>collection</title>
 </head>
 <body>
-
-<a href="Dresses.html">Lehengas</a>
+<a href="DressPage">Lehengas</a>
 <nav>
-<img src="picture/blackl.jpg" width="450px" height="450px">
-<img src="picture/creaml.jpg" width="450px" height="450px">
-<img src="picture/flowerl.jpg" width="450px" height="450px">
-<img src="picture/orangel.jpg" width="450px" height="450px">
-<img src="picture/pinkl.jpg" width="450px" height="450px">
+<a href="BlacklPage"><img src="http://www.saffronsaree.com/image/cache/data/net-black-beige-lehenga-choli-800x1100.jpg" width="450px" height="450px"></a>
+<a href="CreamlPage"><img src="http://media.mruga.com/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/n/dn.43175-1.cream_color_net_classic_lehenga_choli.jpg" width="450px" height="450px"></a>
+<a href="FlowerlPage"><img src="http://www.sareespalace.com/image/cache/data/bright-pink-and-red-shaded-georgette-lehenga-choli-800x1100.jpg" width="450px" height="450px"></a>
+<a href="OrangelPage"><img src="http://www.sareeka.com/image/cache/data/orange-colour-border-work-lehenga-choli-800x1100.jpg" width="450px" height="450px"></a>
+<a href="PinklPage"><img src="https://ak0.scstatic.net/1/cdn2-cont12.sweetcouch.com/146002425824496655-party-wear-red-pink-lehenga.jpg" width="450px" height="450px"></a>
+<a class="navbar-brand" href="HomePage">Back</a>
 </nav>
 </body>
 </html>
